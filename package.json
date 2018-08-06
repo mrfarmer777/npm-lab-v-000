@@ -1,0 +1,25 @@
+{
+  "name": "npm-lab-v-000",
+  "version": "1.0.0",
+  "description": "\"A simple example package to practice!\"",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrfarmer777/npm-lab-v-000.git"
+  },
+  "keywords": [
+    "pickles"
+  ],
+  "author": "Matt Farmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrfarmer777/npm-lab-v-000/issues"
+  },
+  "homepage": "https://github.com/mrfarmer777/npm-lab-v-000#readme"
+}
